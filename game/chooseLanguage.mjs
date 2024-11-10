@@ -1,6 +1,5 @@
-import { print, printCenterd } from "../utils/io.mjs";
-import { DICTIONARY } from "./game/dictionary.mjs";
-import { print, clearScreen } from "./utils/io.mjs";
+import { DICTIONARY } from "./dictionary.mjs";
+import { clearScreen } from "../utils/io.mjs";
 
 let enLang = DICTIONARY.en;
 let noLang = DICTIONARY.no;
