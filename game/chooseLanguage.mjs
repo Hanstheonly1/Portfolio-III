@@ -1,4 +1,4 @@
-import { DICTIONARY } from "./dictionary.mjs";
+import { DICTIONARY } from "../game/dictionary.mjs";
 import { clearScreen } from "../utils/io.mjs";
 
 let enLang = DICTIONARY.en;
